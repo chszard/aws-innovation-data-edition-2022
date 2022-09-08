@@ -267,8 +267,7 @@
 - [How to create 100 database clones in minutes with AWS](https://drive.google.com/open?id=1bdzo0m9CQb05e0eEMMXx9vjpXEE3sT2f)
 	- [demo](https://drive.google.com/open?id=1l3AbrkRnmE3MVvBL9alZWIPggtgFQ3YT)
 - [Resiliency and availability design patterns for the cloud](https://drive.google.com/open?id=13MQ5S291Grfowa_tO1bGJnD0_KPrqR1S)
-- [Build and operate a secure and successful cloud operations model](https://drive.google.com/open?id=14IMUoDEC
-L7DbCGYO799XVKv2TVJjnfcZ)
+- [Build and operate a secure and successful cloud operations model](https://drive.google.com/open?id=14IMUoDECL7DbCGYO799XVKv2TVJjnfcZ)
 	- [demo](https://drive.google.com/open?id=1nljKBb9A58zfDX9p7cJf2nvdLEIcLgOX)
 - [Cost optimization on AWS](https://drive.google.com/open?id=16FbaGnziZClbqH3_c30Gp64v25uL8SbL)
 
